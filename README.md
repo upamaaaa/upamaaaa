@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Upama Pokharel</h1>
 
-<!--
-**upamaaaa/upamaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Graduate Computing Student | Frontend Developer | QA Automation Learner 
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- React
+- TypeScript
+- Redux Toolkit
+- Cypress Automation
+- UI/UX
+
+💻 Projects:
+- Insta Mood App
+- Little Guardian (FYP)
+- Signup Automation Cypress
+- Stockify
+
+🛠 Tech Stack:
+React | TypeScript | JavaScript | Node.js | Express | MongoDB | Cypress
+
+📫 Reach me:
+upamapokharel61@gmail.com
+
+✨ “Learning by building real projects.”
