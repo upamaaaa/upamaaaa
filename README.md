@@ -27,8 +27,6 @@ upamapokharel61@gmail.com
 
 ✨ “Learning by building real projects.”
 
-![Upama's GitHub stats](https://github-readme-stats.vercel.app/api?username=upamaaaa&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upamaaaa&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=upamaaaa&theme=tokyonight)
