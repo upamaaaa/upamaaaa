@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Upama Pokharel</h1>
 
 <h3 align="center">
-Graduate Computing Student | Frontend Developer | QA Automation Learner 
+Graduate | Frontend Developer | QA Automation Learner 
 </h3>
 
 ---
